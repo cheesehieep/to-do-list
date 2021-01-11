@@ -1,0 +1,13 @@
+.container{
+    max-width: 1140px;
+}
+.completed{
+    text-decoration: line-through;
+}
+.filter{
+    margin-left: 50px;
+    width: 308px;
+}
+.btn{
+    text-align: left;
+}
